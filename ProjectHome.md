@@ -1,0 +1,1 @@
+A tutorial for using @ModelAttribute in Spring 3 MVC
